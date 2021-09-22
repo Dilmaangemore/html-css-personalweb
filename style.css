@@ -1,0 +1,29 @@
+body {
+  background-color:#EAF6F6;
+      }
+      h1{
+        color: #66BFBF
+      }
+      h2{
+        color: #66BFBF
+      }
+      /create a image class
+      .vishnu{
+        background-color: red;
+      }
+      .circular{
+        border-radius: 100%
+      }
+      #heading{
+        color: red;
+      }
+
+      hr{
+        background-color: white;
+        border-style: none;
+        border-top:dotted;
+        border-color: grey;
+        border-width: 5px;
+        height: 0px;
+        width: 10%;
+      }
